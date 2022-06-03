@@ -1,0 +1,13 @@
+.SkillList {
+    padding: 0;
+  }
+    
+.SkillListItem > .level {
+    margin-left: 5rem;
+    padding: 0.3rem 0.8rem;
+    color: white;
+    background-color: teal;
+    border-radius: 0.8rem;
+    font-size: 0.8rem;
+    font-weight: normal;
+}
